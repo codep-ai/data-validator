@@ -98,6 +98,3 @@ target_query.sql
 # Commit msg
 commits.txt
 test.py
-
-# Backend
-packages/backend/node_modules
